@@ -1,4 +1,23 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
+= Projektantrag
 
-image::img.png[]
+== Plattform für digitale Selbsthilfegruppen zur Stärkung psychischer Gesundheit
+
+== Projektbeschreibung
+Menschen, die mit psychischen Belastungen wie Depressionen oder Abhängigkeiten kämpfen, finden oft nur schwer die nötige Unterstützung in ihrem direkten Umfeld. Um diese Lücke zu schließen, planen wir die Entwicklung einer Plattform, die es ermöglicht, sich anonym und sicher in Selbsthilfegruppen auszutauschen.
+
+Die Plattform wird als Web-App konzipiert und bringt Menschen mit ähnlichen Problemen in thematisch passenden Gruppen zusammen. Diskussionsforen, Audio- und Video-Chats sowie tägliche Stimmungstracker bieten die Möglichkeit, sich zu vernetzen, Unterstützung zu erhalten und Fortschritte zu verfolgen. Anonymität und der Schutz persönlicher Daten haben dabei oberste Priorität.
+
+== Aufgabenbeschreibung
+I:: RECHERCHE / MANAGEMENT
+II:: UI & UX DESIGN / INFORMATIONEN
+III:: DATENVERARBEITUNG / SICHERHEIT
+
+== Projektnutzen
+Unsere Plattform bietet Betroffenen die Möglichkeit, in einer geschützten und anonymen Umgebung Unterstützung zu finden. Durch themenspezifische Gruppen werden Menschen mit ähnlichen Problemen gezielt zusammengeführt, um sich gegenseitig zu helfen. Die Möglichkeit, über Video- und Audio-Chats zu kommunizieren, stärkt das Gemeinschaftsgefühl, ohne dabei die Privatsphäre zu gefährden.
+
+Der tägliche Stimmungs-Tracker hilft den Nutzern, ihre eigene Entwicklung zu beobachten und rechtzeitig auf negative Tendenzen zu reagieren. Dies unterstützt den Weg zu einer langfristigen Besserung.
+
+== Konsequenzen bei Nichtdurchführung
+Ohne eine Plattform wie diese bleiben viele Menschen weiterhin isoliert und finden nur schwer Zugang zu Hilfsangeboten. Die Möglichkeit, anonym und unverbindlich über belastende Themen zu sprechen, fehlt in vielen bestehenden Angeboten. Dies kann dazu führen, dass Probleme unbehandelt bleiben oder sich sogar verschlimmern.
+
+Mit unserer Plattform wollen wir verhindern, dass Betroffene aufgrund mangelnder Unterstützung auf sich allein gestellt sind und keine Möglichkeit haben, ihre Situation aktiv zu verbessern.
